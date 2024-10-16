@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/frontend-to-do-fork/static/css/main.28f9b7cd.css",
-    "main.js": "/frontend-to-do-fork/static/js/main.59117bd1.js",
+    "main.js": "/frontend-to-do-fork/static/js/main.85049c92.js",
     "index.html": "/frontend-to-do-fork/index.html",
     "main.28f9b7cd.css.map": "/frontend-to-do-fork/static/css/main.28f9b7cd.css.map",
-    "main.59117bd1.js.map": "/frontend-to-do-fork/static/js/main.59117bd1.js.map"
+    "main.85049c92.js.map": "/frontend-to-do-fork/static/js/main.85049c92.js.map"
   },
   "entrypoints": [
     "static/css/main.28f9b7cd.css",
-    "static/js/main.59117bd1.js"
+    "static/js/main.85049c92.js"
   ]
 }
